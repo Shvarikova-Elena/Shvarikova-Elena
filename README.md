@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align='center'>
+Hi there, 👋 I'm Elena
+</h1>
+<p align='center'>
+  QA Engineer
+</p>
 
-<!--
-**Shvarikova-Elena/Shvarikova-Elena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Навыки:
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white" alt="Android Studio"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgre Badge"/>
+<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json Badge"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="Swagger"/>
+<img src="https://img.shields.io/badge/Cygwin/Terminal-4D4D4D?style=for-the-badge&logo=Cygwin/Terminal&logoColor=white" alt="Cygwin/Terminal"/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Контакты:* <br />
+<a href=" https://t.me/Elena_Shvarikova ">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
+  </a>  
+elena.shvarikova@yandex.ru
