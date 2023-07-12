@@ -13,6 +13,8 @@ Hi there, 👋 I'm Elena
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="Swagger"/>
 <img src="https://img.shields.io/badge/Cygwin/Terminal-4D4D4D?style=for-the-badge&logo=Cygwin/Terminal&logoColor=white" alt="Cygwin/Terminal"/>
+<img src="https://img.shields.io/badge/Apidoc-blue?style=for-the-badge&logo=Apidoc&logoColor=white" alt="Apidoc"/>
+<img src="https://img.shields.io/badge/Charles-blue?style=for-the-badge&logo=Charles&logoColor=white" alt="Charles"/>
 
 
 *Контакты:* <br />
