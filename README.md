@@ -23,6 +23,11 @@ Hi there, 👋 I'm Elena
 <img src="https://img.shields.io/badge/YouTrack-gray?style=for-the-badge&logo=YouTrack&logoColor=white" alt="YouTrack"/>
 <img src="https://img.shields.io/badge/DEVTOOLS-blue?style=for-the-badge&logo=DEVTOOLS&logoColor=white" alt="DEVTOOLS"/>
 
-*Как со мной связаться:* <br />
+**Контакты:** <br />
+Tel: +7-910-822-73-41
 [Telegram](https://t.me/Elena_Shvarikova)  
 [Email](mailto:elena.shvarikova@yandex.ru)
+
+<h2 align='center'>
+![](https://komarev.com/ghpvc/?username=Shvarikova-Elena&color=ff69b4)
+</h2>
