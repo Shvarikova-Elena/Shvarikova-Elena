@@ -20,10 +20,13 @@ Hi there, 👋 I'm Elena
 <img src="https://img.shields.io/badge/Charles-blue?style=for-the-badge&logo=Charles&logoColor=white" alt="Charles"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-<img src="https://img.shields.io/badge/JetBrains-gray?style=for-the-badge&logo=JetBrains&logoColor=white" alt="JetBrains"/>
+<img src="https://img.shields.io/badge/YouTrack-gray?style=for-the-badge&logo=YouTrack&logoColor=white" alt="YouTrack"/>
+<img src="https://img.shields.io/badge/DEVTOOLS-blue?style=for-the-badge&logo=DEVTOOLS&logoColor=white" alt="DEVTOOLS"/>
 
 *Контакты:* <br />
 <a href=" https://t.me/Elena_Shvarikova ">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
   </a>  
-elena.shvarikova@yandex.ru
+<a href=" elena.shvarikova@yandex.ru ">
+ <img src="https://img.shields.io/badge/mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" alt="mail.ru"/>
+  </a>  
