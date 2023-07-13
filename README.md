@@ -5,6 +5,9 @@ Hi there, 👋 I'm Elena
   QA Engineer
 </p>
 
+### Проекты:
+[Яндекс Самокат](https://github.com/Shvarikova-Elena/Yandex.Scooter).
+
 ### Инструменты:
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white" alt="Android Studio"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma"/>
