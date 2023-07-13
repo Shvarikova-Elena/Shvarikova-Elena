@@ -6,7 +6,7 @@ Hi there, 👋 I'm Elena
 </p>
 
 ### Проекты:
-[Яндекс Самокат](https://github.com/Shvarikova-Elena/Yandex.Scooter).
+**[Яндекс Самокат](https://github.com/Shvarikova-Elena/Yandex.Scooter)**
 
 ### Инструменты:
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white" alt="Android Studio"/>
@@ -18,6 +18,9 @@ Hi there, 👋 I'm Elena
 <img src="https://img.shields.io/badge/Apidoc-blue?style=for-the-badge&logo=Apidoc&logoColor=white" alt="Apidoc"/>
 <img src="https://img.shields.io/badge/Cygwin/Terminal-4D4D4D?style=for-the-badge&logo=Cygwin/Terminal&logoColor=white" alt="Cygwin/Terminal"/>
 <img src="https://img.shields.io/badge/Charles-blue?style=for-the-badge&logo=Charles&logoColor=white" alt="Charles"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+<img src="https://img.shields.io/badge/JetBrains-gray?style=for-the-badge&logo=JetBrains&logoColor=white" alt="JetBrains"/>
 
 *Контакты:* <br />
 <a href=" https://t.me/Elena_Shvarikova ">
