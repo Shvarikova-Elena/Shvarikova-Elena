@@ -23,7 +23,6 @@ Hi there, 👋 I'm Elena
 <img src="https://img.shields.io/badge/YouTrack-gray?style=for-the-badge&logo=YouTrack&logoColor=white" alt="YouTrack"/>
 <img src="https://img.shields.io/badge/DEVTOOLS-blue?style=for-the-badge&logo=DEVTOOLS&logoColor=white" alt="DEVTOOLS"/>
 
-*Контакты:* <br />
-<a href=" https://t.me/Elena_Shvarikova ">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
-  </a>  [email](elena.shvarikova@yandex.ru)
+*Как со мной связаться:* <br />
+[Telegram](https://t.me/Elena_Shvarikova)  
+[Email](mailto:elena.shvarikova@yandex.ru)
