@@ -23,8 +23,10 @@ Hi there, 👋 I'm Elena
 <img src="https://img.shields.io/badge/YouTrack-gray?style=for-the-badge&logo=YouTrack&logoColor=white" alt="YouTrack"/>
 <img src="https://img.shields.io/badge/DEVTOOLS-blue?style=for-the-badge&logo=DEVTOOLS&logoColor=white" alt="DEVTOOLS"/>
 
+
+
+
 **Контакты:** <br />
-Tel: +7-910-822-73-41 <br />
 [Telegram](https://t.me/Elena_Shvarikova)<br />
 [Email](mailto:elena.shvarikova@yandex.ru)<br />
 
