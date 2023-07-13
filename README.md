@@ -27,6 +27,5 @@ Hi there, 👋 I'm Elena
 <a href=" https://t.me/Elena_Shvarikova ">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
   </a>  
-elena.shvarikova@yandex.ru
-<img src="https://img.shields.io/badge/mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" alt="mail.ru"/>
-  </a>  
+
+[<img src="https://img.shields.io/badge/mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" alt="mail.ru"/>](elena.shvarikova@yandex.ru)
