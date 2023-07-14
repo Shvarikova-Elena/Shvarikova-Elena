@@ -31,6 +31,4 @@ Hi there, 👋 I'm Elena
 [Email](mailto:elena.shvarikova@yandex.ru)<br />
 
 
-
-
 ![Profile views](https://komarev.com/ghpvc/?username=Shvarikova-Elena&color=red)
