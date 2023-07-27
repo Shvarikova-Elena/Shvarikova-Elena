@@ -1,9 +1,9 @@
 <h1 align='center'>
 Hi there, 👋 I'm Elena
 </h1>
-<b align='center'>
+<p align='center'>
   <B>QA Engineer</B>
-</b>
+</p>
 
 ### Проекты:
 **[Яндекс Самокат](https://github.com/Shvarikova-Elena/Yandex.Scooter)**
