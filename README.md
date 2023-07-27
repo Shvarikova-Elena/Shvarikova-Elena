@@ -2,7 +2,7 @@
 Hi there, 👋 I'm Elena
 </h1>
 <p align='center'>
-  ## QA Engineer
+  QA Engineer
 </p>
 
 ### Проекты:
