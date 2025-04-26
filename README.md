@@ -21,7 +21,7 @@ MS Office, MS Project, Google Docs, Яндекс Документы, LibreOffice
 Графические редакторы: Draw.io, Figma, MS Visio
 <br />
 <br />
-Также знакома с такими инструментами как:<br />
+Также имею опыт работы с такими инструментами как:<br />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white" alt="Android Studio"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgre Badge"/>
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json Badge"/>
