@@ -32,7 +32,6 @@ MS Office, MS Project, Google Docs, Яндекс Документы, LibreOffice
 <img src="https://img.shields.io/badge/Cygwin/Terminal-4D4D4D?style=for-the-badge&logo=Cygwin/Terminal&logoColor=white" alt="Cygwin/Terminal"/>
 <img src="https://img.shields.io/badge/Charles-blue?style=for-the-badge&logo=Charles&logoColor=white" alt="Charles"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 <img src="https://img.shields.io/badge/YouTrack-gray?style=for-the-badge&logo=YouTrack&logoColor=white" alt="YouTrack"/>
 <img src="https://img.shields.io/badge/DEVTOOLS-blue?style=for-the-badge&logo=DEVTOOLS&logoColor=white" alt="DEVTOOLS"/>
 
