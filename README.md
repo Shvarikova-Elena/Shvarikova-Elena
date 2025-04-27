@@ -14,14 +14,17 @@ Hi there, 👋 I'm Elena
 
 
 ### Проекты:
-**[Яндекс Самокат](https://github.com/Shvarikova-Elena/Yandex.Scooter)**
+**[Яндекс Самокат](https://github.com/Shvarikova-Elena/Yandex.Scooter)**<br />
+<br />
+<br />
+<ins>В своей работе я использую следующие инструменты и программы:</ins><br />
+<br />
+**MS Office, MS Project, Google Docs, Яндекс Документы, LibreOffice, Atlassian (Confluence, Jira), Wiki, Notion**<br />
+**Графические редакторы: Draw.io, Figma, MS Visio**
 
-### <ins>В своей работе я использую следующие инструменты и программы:</ins><br />
-MS Office, MS Project, Google Docs, Яндекс Документы, LibreOffice, Atlassian (Confluence, Jira), Wiki, Notion <br />
-Графические редакторы: Draw.io, Figma, MS Visio
+
+<ins>Также имею опыт работы с такими инструментами как:</ins><br />
 <br />
-<br />
-Также имею опыт работы с такими инструментами как:<br />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/> 
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white" alt="Android Studio"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgre Badge"/>
