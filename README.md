@@ -20,7 +20,7 @@ Hi there, 👋 I'm Elena
 <ins>В своей работе я использую следующие инструменты и программы:</ins><br />
 <br />
 **MS Office, MS Project, Google Docs, Яндекс Документы, LibreOffice, Atlassian (Confluence, Jira), Wiki, Notion**<br />
-**Графические редакторы: Draw.io, Figma, MS Visio, GIMP**
+**Графические редакторы: Draw.io, Figma, MS Visio, GIMP**<br />
 **Видеоредакторы: Camtasia Studio**
 
 
