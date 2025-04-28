@@ -21,6 +21,7 @@ Hi there, 👋 I'm Elena
 <br />
 **MS Office, MS Project, Google Docs, Яндекс Документы, LibreOffice, Atlassian (Confluence, Jira), Wiki, Notion**<br />
 **Графические редакторы: Draw.io, Figma, MS Visio, GIMP**
+**Видеоредакторы: Camtasia Studio**
 
 
 <ins>Также имею опыт работы с такими инструментами как:</ins><br />
