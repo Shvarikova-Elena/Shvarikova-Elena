@@ -11,14 +11,11 @@ Hi there, 👋 I'm Elena
 ‒	шаблоны документов различного назначения;<br />
 ‒	Style Guide.<br />
 </i>
-
-
-### Проекты:
-**[Яндекс Самокат](https://github.com/Shvarikova-Elena/Yandex.Scooter)**<br />
 <br />
 <br />
+
 <ins>В своей работе я использую следующие инструменты и программы:</ins><br />
-<br />
+
 **MS Office, MS Project, Google Docs, Яндекс Документы, LibreOffice, Atlassian (Confluence, Jira), Wiki, Notion**<br />
 **Графические редакторы: Draw.io, Figma, MS Visio, GIMP**<br />
 **Видеоредакторы: Camtasia Studio**
@@ -39,7 +36,9 @@ Hi there, 👋 I'm Elena
 <img src="https://img.shields.io/badge/YouTrack-gray?style=for-the-badge&logo=YouTrack&logoColor=white" alt="YouTrack"/>
 <img src="https://img.shields.io/badge/DEVTOOLS-blue?style=for-the-badge&logo=DEVTOOLS&logoColor=white" alt="DEVTOOLS"/>
 
-
+### Проекты:
+**[Яндекс Самокат](https://github.com/Shvarikova-Elena/Yandex.Scooter)**<br />
+<br />
 
 **Контакты:** <br />
 [Telegram](https://t.me/Elena_Shvarikova)<br />
