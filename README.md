@@ -36,10 +36,13 @@ Hi there, 👋 I'm Elena
 <img src="https://img.shields.io/badge/YouTrack-gray?style=for-the-badge&logo=YouTrack&logoColor=white" alt="YouTrack"/>
 <img src="https://img.shields.io/badge/DEVTOOLS-blue?style=for-the-badge&logo=DEVTOOLS&logoColor=white" alt="DEVTOOLS"/>
 
-## Проекты:
-**[Яндекс Самокат](https://github.com/Shvarikova-Elena/Yandex.Scooter)**<br /> 
+#### Проекты:<br />
+**[Яндекс Самокат](https://github.com/Shvarikova-Elena/Yandex.Scooter)**<br />
 <br />
 
+#### Сертификаы:
+[Сертифика участника Первой Международной конференции технических писателей](https://disk.yandex.ru/i/-PFLKzAIKZrGiQ)<br /> 
+<br />
 **Контакты:** <br />
 [Telegram](https://t.me/Elena_Shvarikova)<br />
 [Email](mailto:elena.shvarikova@yandex.ru)<br />
