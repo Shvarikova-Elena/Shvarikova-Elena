@@ -38,11 +38,10 @@ Hi there, 👋 I'm Elena
 
 #### Проекты:<br />
 **[Яндекс Самокат](https://github.com/Shvarikova-Elena/Yandex.Scooter)**<br />
-<br />
 
-#### Сертификаы:
+#### Сертификаты:
 [Сертифика участника Первой Международной конференции технических писателей](https://disk.yandex.ru/i/-PFLKzAIKZrGiQ)<br /> 
-<br />
+
 **Контакты:** <br />
 [Telegram](https://t.me/Elena_Shvarikova)<br />
 [Email](mailto:elena.shvarikova@yandex.ru)<br />
